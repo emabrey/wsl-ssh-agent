@@ -1,0 +1,3 @@
+[submodule "npiperelay"]
+	path = npiperelay
+	url = https://github.com/jstarks/npiperelay.git
